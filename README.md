@@ -1,2 +1,2 @@
-# dataset-of-AS3DR
-The dataset that utilized by the 3D stratigraphic modeling method AS3DR.
+# AS3DR
+The code of the 3D stratigraphic modeling method AS3DR.
